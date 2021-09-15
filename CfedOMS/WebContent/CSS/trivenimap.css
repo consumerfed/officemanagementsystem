@@ -1,0 +1,130 @@
+/* CSS Document */
+
+
+/* Google map css */
+
+html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+}
+
+#panel {
+        position: absolute;
+        top: 120px;
+        left: 20%;
+        margin-left: -180px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        
+}
+
+
+/* developed by NIJESH kumar */
+
+.logos{
+	float: left;
+	
+}
+
+.header{
+	height:100px;  
+	background-color: #EEEEEE;
+}
+
+.header h1{
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.footer{
+  	background-color: #FFA500;
+	height: 2%;
+	clear: both;
+	text-align: center;
+}
+
+
+.menuTabs{
+    position:relative;
+    top:0px;
+    width:80px;
+    height:20px; 
+    float:right;   
+}
+
+a:hover
+{
+background-color:red;
+}
+
+.triveniInfo h4{
+	text-align: center;
+}
+.triveniInfo p {
+	margin: 15px; 
+	padding: 0 0 10px 0;
+	font-family: 15px arial, sans-serif;
+}
+
+.triveniInfo h2 {
+	font-size: 28px;
+	font-weight: normal;
+	line-height: 28px; 
+	margin: 0 0 30px 0; 
+	padding: 0; 
+	color: #000;
+	}
+
+.triveniInfo h5{
+	line-height: ;
+}
+
+#infowindow h4{
+	text-align: center;
+}
+#infowindow p{
+	text-align: center;
+}
+#infowindow h5{
+	font-family: Haettenschweiler;
+}
+
+.float_r {
+	float: right;
+}
+
+.image_wrapper2 {
+	display: inline-block;
+	padding: 4px;
+	border: 1px solid #999;
+	background: #ffffff;
+	margin-bottom: 10px;
+}
+
+
+img { border: none; }
+
+/* -- triveniInfo -- info window 
+
+.triveniInfo img {
+    width: 100%;
+    margin-top: 0px;
+}
+
+.triveniInfo {
+    background: #fff;
+    margin: 20px auto;
+    display: block;
+    width: 300px;
+    height: 310px;
+    padding:20px;
+    border-radius: 2px 2px 2px 2px;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+*/

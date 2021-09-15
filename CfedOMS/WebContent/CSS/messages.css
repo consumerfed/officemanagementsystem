@@ -1,0 +1,35 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:1px;
+}
+#compose {
+    line-height:30px;
+    height:100;
+    width:350px;
+    float:left;
+    padding:5px;	      
+}
+#messageList {
+	
+    width:550px;
+    float:left;
+    padding:10px;	 	 
+}
+.message{
+	border: 2px solid #a1a1a1;
+	border-radius: 25px;
+}
+#conversationList {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}

@@ -1,0 +1,41 @@
+  
+  
+/*  
+	header style
+
+*/
+
+.oms-header ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.oms-header a {
+    float: left;
+    width: 6em;
+    text-decoration: none;
+    color: white;
+    background-color: #808080;
+    padding: 0.2em 0.6em;
+    border-right: 1px solid white;
+}
+
+.oms-header a:hover {
+    background-color: #A8A8A8;
+}
+
+.oms-header li {
+    display: inline;
+}
+
+.oms-header  {
+    width: 100%;
+}
+
+/*  
+	header style ends
+
+*/
